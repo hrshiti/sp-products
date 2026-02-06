@@ -26,6 +26,8 @@ export function AppRoutes() {
       <Route path="/" element={<Splash />} />
 
       {/* Auth Routes - No Bottom Navbar/Header */}
+      <Route path="/auth/login" element={<Login />} />
+      <Route path="/auth/signup" element={<Signup />} />
       <Route path="/auth/verify" element={<OtpVerify />} />
 
       {/* Product Details & Cart - No Main Layout */}
