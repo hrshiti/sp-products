@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#d1fae5"/>
+  <rect x="100" y="120" width="200" height="140" rx="12" fill="#1e293b"/>
+  <rect x="110" y="130" width="180" height="100" rx="6" fill="#0f172a"/>
+  <rect x="120" y="145" width="160" height="70" fill="#334155"/>
+  <circle cx="200" cy="180" r="20" fill="#475569"/>
+  <rect x="150" y="260" width="100" height="10" rx="4" fill="#64748b"/>
+  <rect x="120" y="235" width="40" height="25" rx="4" fill="#475569"/>
+  <rect x="240" y="235" width="40" height="25" rx="4" fill="#475569"/>
+  <text x="200" y="330" font-family="sans-serif" font-size="24" fill="#064e3b" text-anchor="middle" font-weight="600">Air Fryer Pro</text>
+</svg>
